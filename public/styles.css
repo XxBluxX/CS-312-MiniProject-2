@@ -1,0 +1,13 @@
+/* Decorate the background of the site*/
+body {
+    background-color: rgb(187, 193, 237);
+    margin: 0;
+    padding: 20px;
+}
+/* Decorate the section containing the drink info*/
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background: rgb(136, 136, 236);
+    padding: 20px;
+}
